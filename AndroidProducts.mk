@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_dumpling.mk
+    $(LOCAL_DIR)/radiant_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_dumpling-user \
-    aosp_dumpling-userdebug \
-    aosp_dumpling-eng
+    radiant_dumpling-user \
+    radiant_dumpling-userdebug \
+    radiant_dumpling-eng
